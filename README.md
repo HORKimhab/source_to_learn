@@ -13,6 +13,7 @@ Source to Learn
   - javatpoint: https://www.javatpoint.com/codeigniter-tutorial
   - guru99: https://www.guru99.com/codeigniter-tutorial.html
   - w3adda: https://www.w3adda.com/codeigniter-tutorial
+  - freecodecamp: **How to View CodeIgniter Log Files in the Browser** https://www.freecodecamp.org/news/how-to-view-codeigniter-log-files-in-the-browser-e4ec7a9e8b23/
 - Codeigniter Blog App: https://www.youtube.com/playlist?list=PLillGF-RfqbaP_71rOyChhjeK1swokUIS
 - Udemy English and Free: https://www.udemy.com/courses/search/?lang=en&price=price-free&q=codeigniter&sort=relevance&src=ukw
 - Udemy English and Paid: https://www.udemy.com/courses/search/?lang=en&price=price-paid&q=codeigniter&sort=relevance&src=ukw
