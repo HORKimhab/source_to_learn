@@ -19,3 +19,8 @@ Source to Learn
 - Udemy English and Paid: https://www.udemy.com/courses/search/?lang=en&price=price-paid&q=codeigniter&sort=relevance&src=ukw
 - Linedin Learning
   - https://www.linkedin.com/learning/search?keywords=codeigniter
+
+## HTML 
+
+- Web 
+  - dofactory: https://www.dofactory.com/html
