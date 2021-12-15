@@ -25,3 +25,13 @@ Source to Learn
 - Web 
   - w3school: https://www.w3schools.com/html/default.asp
   - dofactory: https://www.dofactory.com/html
+  - HTML.COM: https://html.com/
+  - Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
+  - Tutorialspoint: https://www.tutorialspoint.com/html/index.htm
+  - HTML Spec Whatwg: https://html.spec.whatwg.org/
+  - Codecademy: https://www.codecademy.com/learn/learn-html
+  - Javapoint: https://www.javatpoint.com/html-tutorial
+  - htmldog: https://htmldog.com/guides/html/
+  - hostinger: https://www.hostinger.com/tutorials/what-is-html
+  - htmlcolorder: https://htmlcolorcodes.com
+  - geeksforgeeks: https://www.geeksforgeeks.org/html-tutorials
