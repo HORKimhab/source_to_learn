@@ -26,6 +26,7 @@ Source to Learn
   - w3school: https://www.w3schools.com/html/default.asp
   - dofactory: https://www.dofactory.com/html
   - HTML.COM: https://html.com/
+  - HTMLReference: https://htmlreference.io/
   - Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML
   - Tutorialspoint: https://www.tutorialspoint.com/html/index.htm
   - HTML Spec Whatwg: https://html.spec.whatwg.org/
